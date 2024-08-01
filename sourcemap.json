@@ -1,1 +1,1 @@
-{"name":"testpackage","className":"Folder","filePaths":["default.project.json"],"children":[{"name":"test","className":"ModuleScript","filePaths":["src\\test.luau"]}]}
+{"name":"testpackage","className":"Folder","filePaths":["default.project.json"],"children":[{"name":"test","className":"ModuleScript","filePaths":["src\\test.luau"]},{"name":"includeThis","className":"ModuleScript","filePaths":["src\\includeThis.luau"]}]}

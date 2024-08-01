@@ -1,9 +1,7 @@
 [package]
 name = "iminversed/testpackage"
-version = "0.0.2-test"
+version = "0.0.3-test"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-exclude = ["**"]
-include = ["src", "default.project.json", "wally.lock", "wally.toml"]
 
 [dependencies]
