@@ -3,5 +3,8 @@ name = "iminversed/testpackage"
 version = "0.0.3-test"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+exclude = ["**"]
+include = ["src", "src/**", "wally.toml", "wally.lock", "default.project.json"]
 
 [dependencies]
+TestEZ = "roblox/testez@^0.4"

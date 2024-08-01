@@ -1,0 +1,21 @@
+{
+	"name": "testpackage-story",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+            "Packages": {
+                "$path": "Packages",
+                "testpackage": {
+                    "$path": "src"
+                }
+            }
+		},
+        "StarterPlayer": {
+			"StarterPlayerScripts": {
+				"testRunner": {
+					"$path": "test/testRunner.client.luau"
+				}
+			}
+		}
+	}
+}

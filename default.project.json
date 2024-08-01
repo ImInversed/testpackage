@@ -1,6 +1,6 @@
 {
-  "name": "testpackage",
+  "name": "testpackages",
   "tree": {
-      "$path": "src"
+    "$path": "src"
   }
 }
